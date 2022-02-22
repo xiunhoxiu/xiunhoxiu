@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Python
-- 👀 I'm interested in Machine Learning and AI
+- 👀 I'm interested in Machine Learning and AI, Web development and Game development
+- ⚡ I'm experienced in R-programming for Data Analysis & Modelling in economics and finance
 - 📫 How to reach me: <https://www.linkedin.com/in/thienly/>
 
 <!--
